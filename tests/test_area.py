@@ -15,5 +15,5 @@ def test_calculate_area_square_list():
 
 # New unit tests that validates the calculations done by your application are accurate.
 def test_calculate_area_square_valid():
-    assert calculate_area_square(7) == 25   #student id = 100909435
+    assert calculate_area_square(5) == 25   #student id = 100909435
     
